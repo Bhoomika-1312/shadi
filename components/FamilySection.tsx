@@ -52,7 +52,7 @@ export default function FamilySection() {
                     image: "/images/ganesha.jpg"
                 },
                 {
-                    name: "Kanu Bhatia",
+                    name: "Kavyansh Bhatia",
                     relation: "Brother",
                     image: "/images/ganesha.jpg"
                 }
