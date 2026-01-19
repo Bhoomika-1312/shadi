@@ -64,6 +64,16 @@ export default function FamilySection() {
             subtitle: "With love and blessings for our special day",
             members: [
                 {
+                    name: "Dayanand Bhatia,Urmila Bhatia",
+                    relation: "Nana , Nani",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Vasudev Bhatia,Mohini Bhatia",
+                    relation: "Dada , Dadi",
+                    image: "/images/ganesha.jpg"
+                },
+                {
                     name: "Pradeep Kumar Bhatia",
                     relation: "Father",
                     image: "/images/ganesha.jpg"
@@ -71,6 +81,32 @@ export default function FamilySection() {
                 {
                     name: "Rashmi Bhatia",
                     relation: "Mother",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Ravi Bhatia",
+                    relation: "Chacha",
+                    image: "/images/ganesha.jpg"
+                }
+                ,
+                {
+                    name: "Seema Bhatia, Sanjay Bhatia",
+                    relation: "Bua , Jijaji",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Reshu Bhatia, Variendar Bhatia",
+                    relation: "Bua , Jijaji",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Ankush Bhatia, Yojana Bhatia",
+                    relation: "Mama , Mami",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Rajesh Bhatia,Pooja Bhatia",
+                    relation: "Mama , Mami",
                     image: "/images/ganesha.jpg"
                 },
                 {
@@ -84,32 +120,6 @@ export default function FamilySection() {
                     image: "/images/ganesha.jpg"
                 },
                 {
-                    name: "Dayanand Bhatia,Urmila Bhatia",
-                    relation: "Nana , Nani",
-                    image: "/images/ganesha.jpg"
-                },
-                {
-                    name: "Vasudev Bhatia,Mohini Bhatia",
-                    relation: "Dada , Dadi",
-                    image: "/images/ganesha.jpg"
-                },
-                {
-                    name: "Ravi Bhatia",
-                    relation: "Chacha",
-                    image: "/images/ganesha.jpg"
-                }
-                ,
-                {
-                    name: "Ankush Bhatia, Yojana Bhatia",
-                    relation: "Mama , Mami",
-                    image: "/images/ganesha.jpg"
-                },
-                {
-                    name: "Rajesh Bhatia,Pooja Bhatia",
-                    relation: "Mama , Mami",
-                    image: "/images/ganesha.jpg"
-                },
-                {
                     name: "Chakshu Bhatia,Manan Bhatia",
                     relation: "Siblings",
                     image: "/images/ganesha.jpg"
@@ -118,7 +128,22 @@ export default function FamilySection() {
                     name: "Venya Bhatia,Yug Bhatia",
                     relation: "Siblings",
                     image: "/images/ganesha.jpg"
-                }
+                },
+                {
+                    name: "Nikhar Bhatia , Bhawna Bhatia",
+                    relation: "Bhayia-Bhabhi",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Anmol Singhal , Saurabh Singhal",
+                    relation: "Di - Jijaji",
+                    image: "/images/ganesha.jpg"
+                },
+                {
+                    name: "Riya Bhatia , Krishna Bhatia",
+                    relation: "Siblings",
+                    image: "/images/ganesha.jpg"
+                },
             ]
         }
     }
